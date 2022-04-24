@@ -1,0 +1,22 @@
+#Developed_by_Ashrith_sai{
+    position: fixed;
+    color: orange;
+    bottom: 0px;
+    width: 100%;
+    font-size: 15px;
+    background-color: white;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 4px orange;
+    font-size: 25x;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+body{
+    background-color: blue;
+    font-family: 'Dancing Script', cursive;
+    color: orange;
+}
+p{
+    letter-spacing: 4px;
+    font-size: 25px;
+}
